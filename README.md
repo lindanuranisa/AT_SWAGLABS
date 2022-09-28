@@ -3,7 +3,7 @@
 - NODE JS 
   v16.14.2
 
-- NPM INSTALL
+- npm install
 
 To open test cypress
 - npx cypress open
