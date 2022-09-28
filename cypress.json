@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://www.saucedemo.com",
+    "homePage": "https://www.saucedemo.com/inventory.html",
+    "chromeWebSecurity": false,
+    "testFiles": "**/*.feature"
+}
