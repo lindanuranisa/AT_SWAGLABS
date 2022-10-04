@@ -1,7 +1,7 @@
-class inventoryPage {
-    elements = {
-        titleSpan: () => cy.get('.title')
-    }
-}
+// class inventoryPage {
+//     elements = {
+//         titleSpan: () => cy.get('.title')
+//     }
+// }
 
-module.exports = new inventoryPage();
+// module.exports = new inventoryPage();
